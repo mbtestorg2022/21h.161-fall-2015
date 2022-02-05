@@ -42,11 +42,54 @@ This class is part of the [CI-H](http://web.mit.edu/commreq/cih.html) subject re
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class participation {{< br >}}{{< br >}} _All students must demonstrate that they have read and critically analyzed the material in preparation for the class meetings. Some of the discussions will be led by students. The discussion and class participation is a very important part of the course and will be reflected in the final grade._ {{< br >}}{{< br >}}  | 25% |
-| Reaction / Reflection papers (2) | 25% |
-| Final research paper | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation
+
+_All students must demonstrate that they have read and critically analyzed the material in preparation for the class meetings. Some of the discussions will be led by students. The discussion and class participation is a very important part of the course and will be reflected in the final grade._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction / Reflection papers (2)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final research paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more information on the reaction / reflection papers and the final research paper, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 

@@ -301,9 +301,9 @@ Litvak, Meir. "[The Islamization of the Palestinian–Israeli Conflict: The Case
 
 Klein, Menachem. "[Hamas in Power](http://www.jstor.org/stable/4330419)." _Middle East Journal_ 61, no. 3 (2007): 442–59.
 
-Shikaki, Dr. Khalil. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["With Hamas in Power: Impact of Palestinian Domestic Developments on Options for the Peace Process." (PDF)](http://www.brandeis.edu/crown/publications/wp/WP1.pdf) Crown Center for Middle East Studies, Brandeis University. Working Paper 1, February 2007.
+Shikaki, Dr. Khalil. ["With Hamas in Power: Impact of Palestinian Domestic Developments on Options for the Peace Process." (PDF)](http://www.brandeis.edu/crown/publications/wp/WP1.pdf) Crown Center for Middle East Studies, Brandeis University. Working Paper 1, February 2007.
 
-Feldman, Shai, and Khalil Shikaki. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Middle East Brief – Stabilizing Gaza–Israel Relations: What Would It Take?" (PDF - 1.6MB)](http://www.brandeis.edu/crown/publications/meb/MEB83.pdf) Crown Center for Middle East Studies, Brandeis University, no. 83, August 2014.
+Feldman, Shai, and Khalil Shikaki. ["Middle East Brief – Stabilizing Gaza–Israel Relations: What Would It Take?" (PDF - 1.6MB)](http://www.brandeis.edu/crown/publications/meb/MEB83.pdf) Crown Center for Middle East Studies, Brandeis University, no. 83, August 2014.
 
 [The Covenant of the Islamic Resistance Movement](http://avalon.law.yale.edu/20th_century/hamas.asp), August 18, 1988.
 
@@ -421,11 +421,11 @@ Cockburn, Patrick. "[Isis Consolidates](http://www.lrb.co.uk/v36/n16/patrick-coc
 
 Maddy–Weitzman, Dr. Bruce. "[The Clash Within](https://english.tau.ac.il/impact/Islam_rift)." Tel Aviv University, February 1, 2015.
 
-Lister, Charles. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Profiling the Islamic State." (PDF - 1.2MB)](https://www.brookings.edu/wp-content/uploads/2014/12/en_web_lister.pdf) Brooklings Doha Center Analysis Paper, no. 13, November 2014.
+Lister, Charles. ["Profiling the Islamic State." (PDF - 1.2MB)](https://www.brookings.edu/wp-content/uploads/2014/12/en_web_lister.pdf) Brooklings Doha Center Analysis Paper, no. 13, November 2014.
 
 Al–Tamimi, Aymenn Jawad. "[The Dawn of the Islamic State of Iraq and ash–Sham](http://www.meforum.org/3732/islamic-state-iraq-ash-sham)." _Current Trends in Islamist Ideology_, January 27, 2014.
 
-Barir, Idan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Yezidis: Traumatic Memory and Betrayal." (PDF)](https://dayan.org/content/tel-aviv-notes-yezidis-traumatic-memory-and-betrayal) _Tel Aviv Notes: An Update on Middle Eastern Developments by the Moshe Dayan Center_ 8, no. 17 (2014):1-6.
+Barir, Idan. ["The Yezidis: Traumatic Memory and Betrayal." (PDF)](https://dayan.org/content/tel-aviv-notes-yezidis-traumatic-memory-and-betrayal) _Tel Aviv Notes: An Update on Middle Eastern Developments by the Moshe Dayan Center_ 8, no. 17 (2014):1-6.
 
 
 {{< tdclose >}}
